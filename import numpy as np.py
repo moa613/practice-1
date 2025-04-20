@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np dd
 
 a=np.array([0,1])
 b=np.array([-1,np.sqrt(3)])
